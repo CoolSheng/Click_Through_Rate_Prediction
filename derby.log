@@ -1,13 +1,13 @@
 ----------------------------------------------------------------
-Thu Oct 27 00:35:49 CST 2016:
-Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.1.1 - (1458268): instance a816c00e-0158-01d9-0299-0000676383a0 
-on database directory /Users/sheng/Downloads/Click_Through_Rate_Prediction/Click_Through_Rate_Prediction/metastore_db with class loader org.apache.spark.sql.hive.client.IsolatedClientLoader$$anon$1@71e12097 
-Loaded from file:/usr/local/spark/lib/spark-assembly-1.6.1-hadoop2.6.0.jar
+Sun Nov 27 16:40:06 CST 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0158-a4f0-fbc7-00000fdf9830 
+on database directory /home/sheng/Downloads/Click_Through_Rate_Prediction/Click_Through_Rate_Prediction/metastore_db with class loader org.apache.spark.sql.hive.client.IsolatedClientLoader$$anon$1@38c180a3 
+Loaded from file:/home/sheng/Downloads/Spark/spark-2.0.2-bin-hadoop2.7/jars/derby-10.12.1.1.jar
 java.vendor=Oracle Corporation
-java.runtime.version=1.8.0_91-b14
-user.dir=/Users/sheng/Downloads/Click_Through_Rate_Prediction/Click_Through_Rate_Prediction
-os.name=Mac OS X
-os.arch=x86_64
-os.version=10.11.6
+java.runtime.version=1.8.0_111-8u111-b14-2ubuntu0.16.04.2-b14
+user.dir=/home/sheng/Downloads/Click_Through_Rate_Prediction/Click_Through_Rate_Prediction
+os.name=Linux
+os.arch=amd64
+os.version=4.4.0-47-generic
 derby.system.home=null
 Database Class Loader started - derby.database.classpath=''
