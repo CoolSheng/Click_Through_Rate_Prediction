@@ -3,7 +3,7 @@ import csv
 import re
 import os
 
-	f=open("FileName.txt","r")
+	f=open("file_name","r")
 	number=f.read() #print(type(number))=>string
 	hours=number.split() # print(type(hour))=>list
 	##
